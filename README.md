@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=250&text=Sung%20Eun%20Choi&fontColor=4F3E3B&fontAlignY=40&fontSize=90)
 
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz3rgy)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/z3rgy?label=Follow)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcse0612)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/cse0612?label=Follow)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z3rgy&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cse0612&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3rgy&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cse0612&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align='center'>🔨 Stack 🔧</h3>
